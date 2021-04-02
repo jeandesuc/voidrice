@@ -1,6 +1,6 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# The Voidrice (My fork of Luke Smith <https://lukesmith.xyz>'s dotfiles)
 
-These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
+These are the dotfiles deployed by my custom fork of [LARBS](https://github.com) and as seen on
 [my YouTube channel](https://youtube.com/c/lukesmithxyz).
 
 - Very useful scripts are in `~/.local/bin/`
@@ -35,11 +35,11 @@ as well.
 
 ## Install these dotfiles and all dependencies
 
-Use [LARBS](https://larbs.xyz) to autoinstall everything:
+Use my fork of [LARBS](https://github.com/jeandesuc/larbs) to autoinstall everything:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+git clone https://github.com/jeandesuc/larbs
 ```
 
 or clone the repo files directly to your home directory and install the
-[dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv).
+[dependencies](https://github.com/jeandesuc/LARBS/blob/master/progs.csv).

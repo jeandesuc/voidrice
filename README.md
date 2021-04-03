@@ -6,7 +6,6 @@ These are the dotfiles deployed by my custom fork of LARBS.
 - Czech keyboard layout
 - Optimized for using Qutebrowser as default browser
 	- TBD: With a dmenu wrapper to choose different basedirs
-		- TBD: Tunneled into Tor? prolly doable
 	- With local startpages
 	- Searching with Searx by default
 - TBD: A heavier neovim rice with more bells and whistles

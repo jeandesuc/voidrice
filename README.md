@@ -4,7 +4,7 @@ These are the dotfiles deployed by my custom fork of LARBS.
 
 ## What is different
 - Czech keyboard layout
-- Qutebrowser as default browser
+- Optimized for using Qutebrowser as default browser
 	- TBD: With a dmenu wrapper to choose different basedirs
 		- TBD: Tor?
 	- With local startpages

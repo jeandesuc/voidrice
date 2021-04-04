@@ -8,7 +8,7 @@ These are the dotfiles deployed by my custom fork of LARBS.
 	- TBD: With a dmenu wrapper to choose different basedirs
 	- With local startpages
 	- Searching with Searx by default
-- TBD: A heavier neovim rice with more bells and whistles
+- TBD: A heavier neovim rice
 - TBD: OhMyZsh bells and whistles
 
 ## Install these dotfiles and all dependencies

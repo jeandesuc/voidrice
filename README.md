@@ -4,12 +4,6 @@ These are the dotfiles deployed by my custom fork of LARBS.
 
 ## What is different
 - Czech keyboard layout
-- Optimized for using Qutebrowser as default browser
-	- TBD: With a dmenu wrapper to choose different basedirs
-	- With local startpages
-	- Searching with Searx by default
-- TBD: A heavier neovim rice
-- TBD: OhMyZsh bells and whistles
 
 ## Install these dotfiles and all dependencies
 

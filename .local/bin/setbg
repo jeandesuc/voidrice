@@ -22,3 +22,4 @@ command -v wal >/dev/null 2>&1 &&
 	pidof dwm >/dev/null && xdotool key super+F12
 
 xwallpaper --zoom "$bgloc"
+kill -HUP $(pgrep -u $USER "\bdwm$")
